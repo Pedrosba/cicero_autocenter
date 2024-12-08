@@ -1,0 +1,108 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "cicero_injecao_eletronica_autocenter_Context",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "cicero_autocenterAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Agendamento]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Categoria]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Contatos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ControleDePermissao]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CustoMaoDeObra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DocumentoImagem]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FeedbackCliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Funcionario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Pagamentos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PecaEmArmazem]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PecaUtilizada]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RelatorioEstatistica]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Reparacao]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TempoMaoDeObra]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Veiculo]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}

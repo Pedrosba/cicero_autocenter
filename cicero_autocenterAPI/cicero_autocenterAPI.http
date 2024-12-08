@@ -1,0 +1,6 @@
+@cicero_autocenterAPI_HostAddress = http://localhost:5230
+
+GET {{cicero_autocenterAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\cicero_autocenter.Application\cicero_autocenter.Application.csproj" />
+    <ProjectReference Include="..\cicero_autocenter.Domain\cicero_autocenter.Domain.csproj" />
+    <ProjectReference Include="..\cicero_autocenter.Infra.Data\cicero_autocenter.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
